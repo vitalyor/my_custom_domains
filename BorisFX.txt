@@ -1,0 +1,6 @@
+borisfx.com
+support.borisfx.com
+cdn.borisfx.com
+backend.borisfx.com
+activation.genarts.com
+borisfx-com-res.cloudinary.com
